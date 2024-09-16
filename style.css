@@ -1,0 +1,13 @@
+.activitiesApp {
+    display: flex;
+    justify-content: space-around;
+}
+.toDos {
+    width: 400px;
+}
+.allActions {
+    width: 400px;
+}
+.likedActions {
+    width: 400px;
+}
